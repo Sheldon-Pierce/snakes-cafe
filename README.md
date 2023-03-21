@@ -15,7 +15,6 @@ Setup
 i.e.
 
 - PORT - Port Number - N/A
-- DATABASE_URL - URL to the running Postgres instance/db - N/A
 
 How to initialize/run your application (where applicable)
 - python snakes_cafe.py
